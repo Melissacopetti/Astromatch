@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+## Astromatch
+<p align="center">
+  <img width="460" height="300" src=https://media2.giphy.com/media/acqt4K5FaEEsoxjCwW/giphy.gif?cid=ecf05e47ee9tamlfxj7a29vbvxoqsoy26t4ef7vlim4qw9wd&rid=giphy.gif&ct=g">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">:sparkling_heart: Projeto Astromatch - Turma Alves - Labenu :sparkling_heart: </h1>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Índice 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Descrição](#descrição)
+* [Principais Ferramentas Utilizadas](#principais-ferramentas-utilizadas)
+* [Funcionalidades](#funcionalidades)
+* [Link do Projeto](#link-do-projeto)
+* [Imagens do Projeto](#imagens-do-projeto)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+💬
+## Descrição 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Proposta do bootcamp Labenu para criação de um projeto de aplicativo de relacionamento semelhante ao Tinder, utilizando ReactJS.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+⚙️
+## Principais Ferramentas Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+▪ React Hooks
+▪ GlobalState
+▪ API Astromatch
+▪ Styled-components
+▪ SweetAlert2
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Funcionalidades
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+O site apresenta uma lista de perfis com nome, idade, descrição e foto. Na tela de exibição de perfis existem quatro botões: like, que escolhe o perfil, exibindo alertas animados em caso de combinação ou não. Em caso de combinação o perfil será exibido na lista de matchs, na segunda tela. Para ir para a lista basta clicar no botão em formato de coração no cabeçalho da tela de perfis, ele também serve para voltar à tela de perfis. Para apagar os matchs o usuário deverá clicar no botão no rodape da tela de perfis em formato de vassoura.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🔗
+## Link do Projeto 
+[Astromatch](https://astromatchs.surge.sh/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Imagens do Projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![perfis](https://user-images.githubusercontent.com/104647493/188322206-53a1eb53-5440-4e3c-96b7-26afdef1b630.png)
+![deslike](https://user-images.githubusercontent.com/104647493/188322208-dffa6df8-489d-425a-949c-2e19bd487dd7.png)
+![limpar](https://user-images.githubusercontent.com/104647493/188322210-d849657c-2307-4593-afc1-853a1671601e.png)
+![lista](https://user-images.githubusercontent.com/104647493/188322211-78fbc2dd-d028-49f2-887b-1028cfd478a3.png)
+![march](https://user-images.githubusercontent.com/104647493/188322212-35599507-87fb-4507-bbbe-add7288182fd.png)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
