@@ -36,9 +36,9 @@ Proposta do bootcamp Labenu para criação de um projeto de aplicativo de relaci
 
 
 ## Funcionalidades
-
+<div align='justify'>
 O site apresenta uma lista de perfis com nome, idade, descrição e foto. Na tela de exibição de perfis existem quatro botões: like, que escolhe o perfil, exibindo alertas animados em caso de combinação ou não. Em caso de combinação o perfil será exibido na lista de matchs, na segunda tela. Para ir para a lista basta clicar no botão em formato de coração no cabeçalho da tela de perfis, ele também serve para voltar à tela de perfis. Para apagar os matchs o usuário deverá clicar no botão no rodape da tela de perfis em formato de vassoura.
-
+                  </div>
 
 
 🔗
